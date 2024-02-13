@@ -1,0 +1,14 @@
+Max Point: 280
+Pattern: &A LO HU &A LO &A LO LO &A LO
+<1,1> 
+<3,1> 
+<3,2> 
+<5,2> 
+<5,4> 
+<2,4> 
+<2,5> 
+<1,5> 
+<1,1> 
+<3,1> 
+
+Execution time: 14858 ms

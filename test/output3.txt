@@ -1,0 +1,11 @@
+Max Point: 50
+Pattern: 55 7A 55 7A E9 BD BD
+<1,2> 
+<2,2> 
+<2,1> 
+<1,1> 
+<1,3> 
+<5,3> 
+<5,1> 
+
+Execution time: 169 ms

@@ -1,0 +1,11 @@
+Max Point: 50
+Pattern: 7A BD 7A BD 1C BD 55
+<1,1> 
+<4,1> 
+<4,3> 
+<5,3> 
+<5,6> 
+<3,6> 
+<3,1> 
+
+Execution time: 766 ms

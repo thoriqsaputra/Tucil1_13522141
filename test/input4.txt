@@ -1,0 +1,10 @@
+Please input the number of unique tokens: 4
+Please input token 1: BA
+Please input token 2: 7A
+Please input token 3: OU
+Please input token 4: E9
+Please input the buffer size: 6
+Please input the number of rows: 6
+Please input the number of columns: 6
+Please input the number of sequences: 4
+Please input the sequences max length: 4

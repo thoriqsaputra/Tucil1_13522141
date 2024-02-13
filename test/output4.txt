@@ -1,0 +1,10 @@
+Max Point: 165
+Pattern: 7A E9 BA OU E9 E9
+<1,1> 
+<2,1> 
+<2,3> 
+<3,3> 
+<3,1> 
+<2,1> 
+
+Execution time: 6 ms
